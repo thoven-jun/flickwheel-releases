@@ -46,8 +46,9 @@ After Effects용 우클릭 홀드 방사형 메뉴 **FlickWheel**(macOS / Window
 4. Windows가 "Windows의 PC 보호(SmartScreen)" 경고를 띄우면 **추가 정보 → 실행**을 누른다.
    - 코드 서명 인증서가 없어서 뜨는 정상적인 경고다.
 5. 처음 실행하면 뜨는 창에서 **설치** 버튼을 눌러 내 PC에 설치한다.
-6. After Effects **편집 → 환경설정 → 스크립팅 및 표현식**에서
-   **"스크립트가 파일을 쓰고 네트워크에 접근하도록 허용"**을 켠다.
+6. After Effects **Edit → Preferences → Scripting & Expressions**에서
+   **"Allow Scripts to Write Files and Access Network"**를 켠다.
+   (한국어 UI: 편집 → 환경설정 → 스크립팅 및 표현식 → "스크립트가 파일을 쓰고 네트워크에 접근하도록 허용")
 
 ### 사용 방법
 
