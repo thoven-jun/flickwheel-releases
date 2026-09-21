@@ -1,0 +1,6 @@
+version: 1.0.0
+url: https://github.com/thoven-jun/flickwheel-releases/releases/download/v1.0.0-win/FlickWheel-1.0.0-win-x64.zip
+sha512: UNJhdSy4YohYPYzyhh5l6Y82GNK89P4ZdLrFp9MUNZhNsDhGDbzsvB1Gqj7nm9b4FJ7cAA/AnlW8OIMTlIZcYQ==
+size: 68647155
+releaseDate: '2026-09-21T11:27:33.839Z'
+releaseNotes: 'Windows 첫 릴리즈'
