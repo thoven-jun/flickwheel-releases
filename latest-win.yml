@@ -1,6 +1,6 @@
-version: 1.0.0
-url: https://github.com/thoven-jun/flickwheel-releases/releases/download/v1.0.0-win/FlickWheel-1.0.0-win-x64.zip
-sha512: UNJhdSy4YohYPYzyhh5l6Y82GNK89P4ZdLrFp9MUNZhNsDhGDbzsvB1Gqj7nm9b4FJ7cAA/AnlW8OIMTlIZcYQ==
-size: 68647155
-releaseDate: '2026-09-21T11:27:33.839Z'
-releaseNotes: 'Windows 첫 릴리즈'
+version: 1.0.1
+url: https://github.com/thoven-jun/flickwheel-releases/releases/download/v1.0.1-win/FlickWheel-1.0.1-win-x64.zip
+sha512: b1osBN9tRXwJr8i7/oGa9B3B8d/NSnqLc0yYglenrVzmFTnJnL2CEl6WX/if7O93rxyZUq/b76/4WNi4g3lDPA==
+size: 68647243
+releaseDate: '2026-09-21T23:06:21.681Z'
+releaseNotes: '기본 전역 단축키를 Alt+Space로 변경'
