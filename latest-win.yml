@@ -1,6 +1,6 @@
-version: 1.0.3
-url: https://github.com/thoven-jun/flickwheel-releases/releases/download/v1.0.3-win/FlickWheel-1.0.3-win-x64.zip
-sha512: P/4eou4HHqgq+kkqlhYVvjq9sZmBm0a83/gyWskt6FyLZhpRgJ85M6/wZwRuowN3PiTlppJCdq0aco064jRsvA==
-size: 68652033
-releaseDate: '2026-09-22T01:23:28.855Z'
-releaseNotes: '휠 바깥 회색 사각형 현상 수정(시스템 배경 효과 차단)'
+version: 1.0.4
+url: https://github.com/thoven-jun/flickwheel-releases/releases/download/v1.0.4-win/FlickWheel-1.0.4-win-x64.zip
+sha512: exKbRQuSXKja3shIunfks7auBqNZtgeMqgSYVdzsJYxun8VwzYqyc9ZwDapII++IyKyMgQ0lKjxzaLIPkTqbfQ==
+size: 68653433
+releaseDate: '2026-09-22T05:12:46.623Z'
+releaseNotes: '키프레임 있는 Position/Scale/Anchor Point도 Center·Mirror·Anchor가 플레이헤드에 키프레임을 만들거나 갱신, 앵커 그리드 아래 툴팁 배너 겹침 수정, 툴 추가 창에 선택 칩·검색 시 스크롤 초기화'
