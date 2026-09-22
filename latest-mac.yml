@@ -1,8 +1,8 @@
-version: 1.0.3
+version: 1.0.4
 files:
-  - url: FlickWheel-1.0.3-mac.zip
-    sha512: 0cSvkXU80js0aVPOCO9qTjG72VoY0mmnTRogNfNY3Qso9x2+tXCLpk5qC6Q/O20ujlwItiaSpBPAu6B5hMr31Q==
-    size: 1909950
-path: FlickWheel-1.0.3-mac.zip
-sha512: 0cSvkXU80js0aVPOCO9qTjG72VoY0mmnTRogNfNY3Qso9x2+tXCLpk5qC6Q/O20ujlwItiaSpBPAu6B5hMr31Q==
-releaseDate: '2026-09-22T05:01:16.000Z'
+  - url: FlickWheel-1.0.4-mac.zip
+    sha512: tqNZ7pFmkJRDsIRIC0feNd9x1Td85m8wTqpP1PNP2rLp//Prrhdu7Phr62a37SlxDUQZ+eaRDKks2z189eM8YQ==
+    size: 1917811
+path: FlickWheel-1.0.4-mac.zip
+sha512: tqNZ7pFmkJRDsIRIC0feNd9x1Td85m8wTqpP1PNP2rLp//Prrhdu7Phr62a37SlxDUQZ+eaRDKks2z189eM8YQ==
+releaseDate: '2026-09-22T09:04:59.000Z'
